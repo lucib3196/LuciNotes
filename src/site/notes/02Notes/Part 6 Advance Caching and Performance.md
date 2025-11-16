@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-notes/part-6-advance-caching-and-performance/","tags":["notes/atomic"]}
+{"dg-publish":true,"permalink":"/02-notes/part-6-advance-caching-and-performance/","tags":["#notes/atomic"]}
 ---
 
 

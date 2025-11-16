@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-notes/part-5-fun-creative-and-advance-projects/","tags":["notes/atomic"]}
+{"dg-publish":true,"permalink":"/02-notes/part-5-fun-creative-and-advance-projects/","tags":["#notes/atomic"]}
 ---
 
 

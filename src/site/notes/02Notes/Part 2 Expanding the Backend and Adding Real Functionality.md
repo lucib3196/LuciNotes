@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-notes/part-2-expanding-the-backend-and-adding-real-functionality/","tags":["notes/atomic"]}
+{"dg-publish":true,"permalink":"/02-notes/part-2-expanding-the-backend-and-adding-real-functionality/","tags":["#notes/atomic"]}
 ---
 
 **Link to Course**: [[02Notes/Curriculum Building a Modern Web App UCR Starter Project\|Curriculum Building a Modern Web App UCR Starter Project]]
