@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-notes/publish-home/","tags":["notes/atomic","gardenEntry"]}
+{"dg-publish":true,"permalink":"/02-notes/publish-home/","tags":["#notes/atomic","gardenEntry"]}
 ---
 
 
