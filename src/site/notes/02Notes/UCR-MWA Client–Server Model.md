@@ -50,7 +50,7 @@ Client-server systems often are designed with multiple layers (tiers) to separat
 2. **Two Tier Architecture**: Two components are grouped together (can be any way you want). 
  3. **Three Tier Architecture**: Each component is separated
 4. **N Tier Architecture**: You can have as many tiers as you want
-5. 
+
 This layering helps in modularizing, securing, scaling, and maintaining complex applications
 
 
