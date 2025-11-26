@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-notes/qkd-resources/","tags":["#notes/atomic","#publish","#notes/moc"]}
+{"dg-publish":true,"permalink":"/02-notes/qkd-resources/","tags":["notes/atomic","publish","notes/moc"]}
 ---
 
 # Computer Vision 
@@ -12,12 +12,14 @@
 
 - [[02Notes/ArUco Markers\|Aruco Marker Basics]]: Covers what an ARuco Marker is. Additionally this note contains resources on how to perform ARuco detection
 - [[02Notes/Pose Estimation using ArUco Marker for Senior Design\|Pose Estimation using ArUco Marker for Senior Design]]: This note covers the basic idea of how Aruco markers where used for the senior design
-
+## OpenCV
+- [[02Notes/TypeHints in OpenCV\|TypeHints in OpenCV]]
 
 ## Resources
 These resources can be found inside the notes but to make it easy here they are
 - [PRECISION LANDING | with OPENCV and ARUCO Markers | Part 1](https://www.youtube.com/watch?v=wlT_0fhGrGg)
 - [Detecting ArUco markers with OpenCV and Python - GeeksforGeeks](https://www.geeksforgeeks.org/detecting-aruco-markers-with-opencv-and-python-1/#)
+- [Official Documentation on Aruco Markers](https://docs.opencv.org/4.x/d5/dae/tutorial_aruco_detection.html)
 - [https://docs.opencv.org/4.x/dc/dbb/tutorial_py_calibration.html](Documentation on how to perform camera calibration using OpenCV) 
 -  [Multithreading with OpenCV-Python to improve video processing performance • Najam R. Syed](https://nrsyed.com/2018/07/05/multithreading-with-opencv-python-to-improve-video-processing-performance/)
 
